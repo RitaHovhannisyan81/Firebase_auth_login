@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1043520970673",
+    "project_id": "fb-lesson-a68d4",
+    "storage_bucket": "fb-lesson-a68d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043520970673:android:8fa776dc95630516fbe790",
+        "android_client_info": {
+          "package_name": "com.example.fire_lesson"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBojBqvubS8uth0l2vNoGZhF5oWea-EMYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
